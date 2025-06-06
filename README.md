@@ -1,7 +1,13 @@
-# Hi, I'm Julia 👋
+# Hi, I'm Julia 👋😁
+
+## I'm a programming student. 💻
+
+##I have a degree and work in the health sector, I am a physiotherapist. 👩🏽‍⚕️
+
+
 
 <!--
-**jualencar95/jualencar95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**j#ualencar95/jualencar95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
