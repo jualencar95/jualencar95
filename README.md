@@ -6,13 +6,13 @@
 
 ### Linguagens e Tecnologias
 <p>
-      <img 
+ <img 
             align = "left"
             alt = "html"
             width="30px"
             style="padding-right: 10px;"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-      <img 
+<img 
             align = "left"
             alt = "css"
             width="30px"
@@ -25,6 +25,13 @@
             width="30px"
             style="padding-right: 10px;"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+
+ <img
+            align = "left"
+            alt = "bootstrap"
+            width="30px"
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 </p>
 
 <!--
