@@ -34,6 +34,13 @@
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 </p>
 
+<p>
+    <img
+            align = "left"
+            alt = "stats"
+            height="200px"
+            src="https://github-readme-stats.vercel.app/api?username=jualencar95&show=reviews&theme=synthwave&locale=pt-br"/>
+</p>
 <!--
 **j#ualencar95/jualencar95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
