@@ -2,7 +2,7 @@
 
 ## I'm a programming student. 💻
 
-##I have a degree and work in the health sector, I am a physiotherapist. 👩🏽‍⚕️
+## I have a degree and work in the health sector, I am a physiotherapist. 👩🏽‍⚕️
 
 
 
